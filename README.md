@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Iqbal  
+# Hi, I'm Muhammad Iqbal  
 
 💻 **MERN Stack & PHP/SQL Developer** | 🌐 **Full-Stack Web Engineer** | 📊 **2.5+ Years Experience**  
 
@@ -6,26 +6,26 @@ I specialize in building modern, scalable, and high-performance web applications
 
 ---
 
-## 🚀 About Me
-- 🌟 **Experience:** 2.5+ years in professional web development.
-- 🛠 **Core Skills:** MERN Stack, PHP, SQL, JavaScript, HTML, CSS, Bootstrap, Tailwind.
-- 🔧 **Other Tools:** Git, GitHub, cPanel, REST APIs, Redux, Axios.
-- 🎯 **Goal:** Deliver impactful digital solutions that empower businesses.
+## About Me
+- **Experience:** 2.5+ years in professional web development.
+- **Core Skills:** MERN Stack, PHP, SQL, JavaScript, HTML, CSS, Bootstrap, Tailwind.
+- **Other Tools:** Git, GitHub, cPanel, REST APIs, Redux, Axios.
+- **Goal:** Deliver impactful digital solutions that empower businesses.
 
 ---
 
-## 📌 Featured Work  
+## Featured Work  
 
-### ✅ Completed Projects
+### Completed Projects
 - [**TechHubSystems.com**](https://techhubsystems.com) – IT services & solutions website.
 - [**Teqtronics.com**](https://teqtronics.com) – Electronics and tech product showcase.
 
-### 🔄 Ongoing
+### Ongoing
 - **[AbdullahMedicalServices.com](http://Abdullahmedicalservices.com)** – Healthcare services platform.
 
 ---
 
-## 📂 Personal Projects (Pinned)
+## Personal Projects (Pinned)
 - [**LMS**](https://github.com/muhammadiqbal96/LMS) – JavaScript-based Learning Management System.
 - [**wolfsrex**](https://github.com/muhammadiqbal96/wolfsrex) – JavaScript project.
 - [**textutils**](https://github.com/muhammadiqbal96/textutils) – Text utilities app.
@@ -33,7 +33,7 @@ I specialize in building modern, scalable, and high-performance web applications
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DBFB?style=flat&logo=react&logoColor=black)
@@ -57,15 +57,15 @@ I specialize in building modern, scalable, and high-performance web applications
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadiqbal96&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadiqbal96&layout=compact&theme=radical)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-iqbal-2a56892ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:miqbaljutt76@example.com)
 
 ---
-💡 *"Turning ideas into scalable, impactful digital products."*
+*"Turning ideas into scalable, impactful digital products."*
